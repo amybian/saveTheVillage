@@ -17,7 +17,7 @@ Project utilizes the p5.play Javascript Library. Use the arrow keys to move the 
 
 ### Game design 
 - Detect position to fill in the water when walking to the lake
-- Fetch the water and display bucket with water in different status
+- Fetch the water and display bucket with water as full or empty
 - Walk with the water to the seeds 
 - Grow effect of plants
 
@@ -26,11 +26,9 @@ Resources used in the game.
 
 ### index.html
 
-The HTML file contains HTML code that sets up a webpage for our game. We also add libraries in this file using HTML tags.
-
+The HTML file for webpage setup and libraries.
 ### ← style.css
 
-The CSS file adds styling rules to your content like changing colors and fonts.  
 
 
  
